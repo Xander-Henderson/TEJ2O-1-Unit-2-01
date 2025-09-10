@@ -1,10 +1,10 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
-This module is a Micro:bit MicroPython program
+Created by: Xander
+Created on: Sep 2025
+This module is a Micro:bit MicroPython program that says Xander.
 """
 
 from microbit import *
 
 
-display.scroll("Hello, World!")
+display.scroll("Xander")
