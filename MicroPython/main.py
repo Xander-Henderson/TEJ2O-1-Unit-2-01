@@ -1,5 +1,5 @@
 """
-Created by: Xander
+Created by: Alexander
 Created on: Sep 2025
 This module is a Micro:bit MicroPython program that says Xander.
 """
